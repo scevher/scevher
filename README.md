@@ -35,14 +35,5 @@
 - Kali Linux
 - Wireshark
 - Linux
-- Git
-- GitHub
-
 ---
 
-## 🎯 Currently Learning
-
-- Malware Analysis
-- Network Forensics
-- Incident Response
-- Digital Evidence Acquisition
