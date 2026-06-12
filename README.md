@@ -22,6 +22,8 @@
 
 📚 Currently expanding my knowledge in **Network Forensics, Malware Analysis, and Security Monitoring**
 
+🔍 Open to internship opportunities and collaborative projects in cybersecurity and digital forensics
+
 ---
 
 ## 🛠️ Technical Skills
@@ -51,18 +53,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=scevher&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scevher&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 * Advanced Digital Forensics
@@ -76,7 +66,8 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/scevher">GitHub</a>
+<a href="https://github.com/scevher">GitHub</a> •
+<a href="https://linkedin.com/in/selincevher/">LinkedIn</a>
 </p>
 
 ---
