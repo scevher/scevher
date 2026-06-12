@@ -22,7 +22,7 @@
 
 📚 Currently expanding my knowledge in **Network Forensics, Malware Analysis, and Security Monitoring**
 
-🔍 Open to internship opportunities and collaborative projects in cybersecurity and digital forensics
+💡 Motivated by continuous learning, analytical thinking, and solving complex security challenges
 
 ---
 
