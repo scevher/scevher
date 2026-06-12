@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Selin Cevher</h1>
 
-<!--
-**scevher/scevher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Digital Forensics Engineering Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Digital+Forensics+Engineering+Student;Cybersecurity+Enthusiast;Network+Analysis+Learner;Python+Developer;Kali+Linux+User;Wireshark+Analyst;Always+Learning+New+Technologies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 3rd Year Digital Forensics Engineering Student
+
+🔐 Interested in Cybersecurity, Network Analysis and Software Development
+
+🐧 Working with Kali Linux and Linux environments
+
+🌐 Learning network traffic analysis using Wireshark
+
+💻 Improving my skills in Python, Java, C and C#
+
+🛠 Experienced with Digital Forensics tools
+
+📚 Passionate about Cybersecurity and Digital Investigation
+
+---
+
+## 🚀 Skills
+
+- Python
+- Java
+- C
+- C#
+- Kali Linux
+- Wireshark
+- Linux
+- Git
+- GitHub
+
+---
+
+## 🎯 Currently Learning
+
+- Malware Analysis
+- Network Forensics
+- Incident Response
+- Digital Evidence Acquisition
