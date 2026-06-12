@@ -1,39 +1,84 @@
-<h1 align="center">Hi 👋, I'm Selin Cevher</h1>
+<div align="center">
 
-<h3 align="center">Digital Forensics Engineering Student</h3>
+# Hi 👋, I'm Selin Cevher
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Digital+Forensics+Engineering+Student;Cybersecurity+Enthusiast;Network+Analysis+Learner;Python+Developer;Kali+Linux+User;Wireshark+Analyst;Always+Learning+New+Technologies" />
-</p>
+### Digital Forensics Engineering Student | Cybersecurity Enthusiast | Security Researcher
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Digital+Forensics+Engineering+Student;Cybersecurity+Enthusiast;Network+Security+%26+Traffic+Analysis;Digital+Evidence+Acquisition+%26+Analysis;Incident+Response+Learner;Python+%7C+Java+%7C+C+%7C+C%23;Linux+Based+Security+Environments;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 3rd Year Digital Forensics Engineering Student
+🎓 Third-year **Digital Forensics Engineering** student
 
-🔐 Interested in Cybersecurity, Network Analysis and Software Development
+🔐 Interested in **Cybersecurity, Digital Forensics, Network Security, and Software Development**
 
-🐧 Working with Kali Linux and Linux environments
+🖥️ Passionate about **Digital Evidence Analysis, File System Analysis, Network Traffic Investigation, and Incident Response**
 
-🌐 Learning network traffic analysis using Wireshark
+🐧 Working in **Linux-based environments** and continuously improving technical skills through academic and personal projects
 
-💻 Improving my skills in Python, Java, C and C#
-
-🛠 Experienced with Digital Forensics tools
-
-📚 Passionate about Cybersecurity and Digital Investigation
+📚 Currently expanding my knowledge in **Network Forensics, Malware Analysis, and Security Monitoring**
 
 ---
 
-## 🚀 Skills
+## 🛠️ Technical Skills
 
-- Python
-- Java
-- C
-- C#
-- Kali Linux
-- Wireshark
-- Linux
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cs" />
+</p>
+
+### Operating Systems & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+### Areas of Interest
+
+* Digital Forensics
+* Cybersecurity
+* Network Security
+* Network Traffic Analysis
+* Incident Response
+* File System Analysis
+* Digital Evidence Acquisition
+* OSINT Research
+
 ---
 
+## 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=scevher&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scevher&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Advanced Digital Forensics
+* Network Forensics
+* Malware Analysis Fundamentals
+* Security Monitoring
+* Incident Response Methodologies
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/scevher">GitHub</a>
+</p>
+
+---
+
+> "Continuous learning is the foundation of cybersecurity."
