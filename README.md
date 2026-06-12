@@ -12,17 +12,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 Third-year **Digital Forensics Engineering** student
+Third-year **Digital Forensics Engineering** student with a strong interest in cybersecurity, digital forensics, network security, and software development.
 
-🔐 Interested in **Cybersecurity, Digital Forensics, Network Security, and Software Development**
+Currently developing my skills in **Python, Java, C, and C#**, while gaining hands-on experience with **Linux-based environments**, digital evidence analysis, and network traffic investigation.
 
-🖥️ Passionate about **Digital Evidence Analysis, File System Analysis, Network Traffic Investigation, and Incident Response**
+My academic interests include **file system analysis, network forensics, incident response, malware analysis, and security monitoring**.
 
-🐧 Working in **Linux-based environments** and continuously improving technical skills through academic and personal projects
-
-📚 Currently expanding my knowledge in **Network Forensics, Malware Analysis, and Security Monitoring**
-
-💡 Motivated by continuous learning, analytical thinking, and solving complex security challenges
+I enjoy learning new technologies, solving technical challenges, and continuously improving my knowledge in cybersecurity and digital investigations.
 
 ---
 
