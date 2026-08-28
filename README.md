@@ -8,9 +8,9 @@ Forensic Engineering Student & Penetration Testing Intern
 Final-year Forensic Engineering undergraduate and security analyst intern. Focused on web application security, vulnerability assessment, and developing security automation tools using Python.
 
 ### Technical Focus
-* **Security & Testing:** Penetration Testing, Web Application Security, Vulnerability Analysis
+* **Security & Testing:** Advanced Penetration Testing, Web Application Security, Threat Assessment, Security Architecture
 * **Core Stack:** Python, C, C#, Java
-* **Environments & Tools:** Kali Linux, Burp Suite, Metasploit, Git
+* **Tools & Frameworks:** Burp Suite Professional, Postman API Platform, Metasploit Framework
 
 ### Connect
 * LinkedIn: [in/selincevher](https://linkedin.com/in/selincevher)
